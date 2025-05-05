@@ -1,3 +1,6 @@
 Here it is a file in shwetarepo repository
 cloud computing containce saas ,paas and iaas services
 cloud computing is virtual platform
+PAAS is one of the service provided by cloud platform
+PAAS is called as platform asa a service
+PAAS is referred as application
